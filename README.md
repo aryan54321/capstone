@@ -1,2 +1,2 @@
 # capstone
-diabetes detectyion
+diabetes detection
